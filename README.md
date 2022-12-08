@@ -16,8 +16,8 @@ My name is `Sungjin Han`.
 
 #### 🍴 my [EDC](https://en.wikipedia.org/wiki/Everyday_carry)s are:
 * Samsung Galaxy S21, and Leatherman Crater C33TX.
-* [oh-my-zsh](https://ohmyz.sh/), [tmux](https://github.com/tmux/tmux/wiki), [mosh](https://mosh.org/), and [neovim](https://neovim.io/).
-* 1 x Raspberry Pi 4B 8GB, and 4 x [Oracle Always Free](https://www.oracle.com/cloud/free/) instances through [tailscale](https://tailscale.com/).
+* 1 x Raspberry Pi 4B 8GB, and 4 x [Oracle Always Free](https://www.oracle.com/cloud/free/) instances.
+  * [oh-my-zsh](https://ohmyz.sh/), [tmux](https://github.com/tmux/tmux/wiki), [mosh](https://mosh.org/), [neovim](https://neovim.io/), and [tailscale](https://tailscale.com/).
 
 #### ☢️ what I'm into these days:
 * [Janet](https://janet-lang.org/), [Steam Deck](https://store.steampowered.com/steamdeck), and more.
@@ -26,4 +26,4 @@ My name is `Sungjin Han`.
 
 🏠 [homepage](https://meinside.dev) | 🌐 [blog](https://blog.meinside.dev)
 
-*last update: 2022.11.30.*
+*last update: 2022.12.08.*
