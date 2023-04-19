@@ -2,56 +2,18 @@
 
 My name is `Sungjin Han`.
 
-<details>
- <summary>💖 I love:</summary>
- 
- * 🐧 linux,
- * 🧮 programming languages,
- * 🎮 gaming,
- * 💻 gadgets,
- * and 🐾 cute animals.
-</details>
+My daily routines and activities are:
 
-<details>
- <summary>💔 and I hate:</summary>
- 
- * almost anything else.
-</details>
-
-----
-
-#### 🍴 [EDC](https://en.wikipedia.org/wiki/Everyday_carry)s
-
-<details>
- <summary>inside my pocket:</summary>
- 
- * 📱 Samsung Galaxy S21
- * 🏗️ *1* x Raspberry Pi 4B 8GB, and *N* x [Oracle Always Free](https://www.oracle.com/cloud/free/) instances through [tailscale](https://tailscale.com/).
-   * [oh-my-zsh](https://ohmyz.sh/), [tmux](https://github.com/tmux/tmux/wiki), [mosh](https://mosh.org/), and [neovim](https://neovim.io/).
-   * [asdf](https://asdf-vm.com/), golang, janet, and ruby.
-</details>
-
-<details>
- <summary>inside my sling bag:</summary>
-
- * [Tomtoc Arccos for Steam Deck](https://www.tomtoc.com/products/tomtoc-arccos-series-carrying-bag-for-steam-deck-console-and-accessories-black)
-   * 🔪 [Leatherman Crater C33](https://www.leatherman.com/crater-c33-26.html)TX.
-   * 🔌 Clever Tachyon PD3.0 PPS Charger
-   * 🕹️ [Steam Deck](https://store.steampowered.com/steamdeck) 256GB
-   * 🎧 Shure SE535 + RMCE-TW2 or QCY T13 ANC
-</details>
-
-#### ☢️ what I'm into these days
-
-<details>
- <summary>learning:</summary>
- 
- * [blender](https://www.blender.org/)
- * [rust](https://www.rust-lang.org/)
-</details>
+* 15 * 10 push ups + 5 * 5 pull ups + 20 * 5 slow burpees
+* update things in my linux machines (Raspberry Pi 4B + oracle cloud instances)
+* maintain my [dotfiles](https://github.com/meinside/dotfiles), including neovim configs
+* check RSS feeds (mainly posts from [hacker news](https://news.ycombinator.com/))
+* (work for a living)
+* update things on my [steam deck](https://store.steampowered.com/steamdeck) ~~(and turn it off without playing)~~
+* and listen to music while washing dishes
 
 ----
 
 🏠 [homepage](https://meinside.dev) | 🌐 [blog](https://blog.meinside.dev)
 
-*last update: 2023.01.27.*
+*last update: 2023.04.19.*
