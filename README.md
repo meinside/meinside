@@ -18,6 +18,6 @@ My daily routines and activities are:
 
 🏠 [homepage](https://meinside.dev) | 🌐 [blog](https://blog.meinside.dev)
 
-![generated with noiselith](https://raw.githubusercontent.com/meinside/meinside/main/res/image.jpg)
+![generated with noiselith](https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg)
 
-*last update: 2024.03.04.*
+*last update: 2024.04.09.*
