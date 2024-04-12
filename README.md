@@ -4,7 +4,7 @@
 
 My daily routines and activities are:
 
-* 18 * 10 `push-ups` + 20 * 3 `lunges on each side` + 7 * 5 `pull-ups` + 20 * 5 `slow burpees`
+* 20 * 10 `push-ups` + 20 * 3 `lunges on each side` + 8 * 5 `pull-ups` + 20 * 5 `slow burpees`
 * update things in my linux machines (Raspberry Pi 4B + oracle cloud instances)
 * maintain my [dotfiles](https://github.com/meinside/dotfiles)
 * [check RSS feeds](https://apps.apple.com/kr/app/reeder-5/id1529448980)
@@ -20,4 +20,4 @@ My daily routines and activities are:
 
 ![generated with noiselith](https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg)
 
-*last update: 2024.04.09.*
+*last update: 2024.04.12.*
