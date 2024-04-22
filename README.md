@@ -4,15 +4,16 @@
 
 My daily routines and activities are:
 
-* 20 * 10 `push-ups` + 20 * 3 `lunges on each side` + 8 * 5 `pull-ups` + 20 * 5 `slow burpees`
-* update things in my linux machines (Raspberry Pi 4B + oracle cloud instances)
-* maintain my [dotfiles](https://github.com/meinside/dotfiles)
-* [check RSS feeds](https://apps.apple.com/kr/app/reeder-5/id1529448980)
+* do 20 * 10 `push-ups` + 20 * 3 `lunges on each side` + 8 * 5 `pull-ups` + 20 * 5 `slow burpees`,
+* update things in my linux machines (Raspberry Pi 4B + oracle cloud instances),
+* maintain my [dotfiles](https://github.com/meinside/dotfiles),
+* [check RSS feeds](https://apps.apple.com/kr/app/reeder-5/id1529448980),
+* write docs and notes with [obsidian](https://obsidian.md/),
 * (work for a living :godmode:)
-* [listen to music](https://play.google.com/store/apps/details?id=com.spiralplayerx) while washing dishes
-* update and configure things on my [steam deck](https://store.steampowered.com/steamdeck) ~~(and turn it off without playing :trollface:)~~
-* do the daily quests in [MTG Arena](https://magic.wizards.com/en/mtgarena) and [MARVEL SNAP](https://www.marvelsnap.com/)
-* and/or read books with [ONYX BOOX Page](https://onyxboox.com/boox_page)
+* [listen to music](https://play.google.com/store/apps/details?id=com.spiralplayerx) while washing dishes,
+* update and configure things on my [steam deck](https://store.steampowered.com/steamdeck) ~~(and turn it off without playing :trollface:)~~,
+* do the daily quests in [MTG Arena](https://magic.wizards.com/en/mtgarena),
+* and/or read books with [ONYX BOOX Page](https://onyxboox.com/boox_page).
 
 ----
 
@@ -20,4 +21,4 @@ My daily routines and activities are:
 
 ![generated with noiselith](https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg)
 
-*last update: 2024.04.12.*
+*last update: 2024.04.22.*
