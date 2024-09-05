@@ -63,7 +63,7 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   read books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>
+   and read (e)books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>
   </li>
  </ul>
 </details>
