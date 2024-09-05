@@ -9,9 +9,9 @@ My daily routines and activities are:
   <ul>
    <li>20 * 10 <b>push-ups</b></li>
    <li>20 * 3 <b>lunges</b> on each side</li>
-   <li>8 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg" target="_blank">this one</a></li>
+   <li>8 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a></li>
    <li>20 * 5 <b>slow burpees</b></li>
-   <li>30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg" target="_blank">this one</a></li>
+   <li>30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a></li>
   </ul>
 </details>
 
@@ -30,13 +30,13 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   maintain my <a href="https://github.com/meinside/dotfiles" target="_blank">dotfiles</a>,
+   maintain my <a href="https://github.com/meinside/dotfiles">dotfiles</a>,
   </li>
   <li>
-   write docs and notes with <a href="https://obsidian.md" target="_blank">obsidian</a>,
+   write docs and notes with <a href="https://obsidian.md">obsidian</a>,
   </li>
   <li>
-   and write codes with (mostly) <a href="https://github.com/neovim/neovim" target="_blank">neovim</a>.
+   and write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>.
   </li>
  </ul>
 </details>
@@ -48,22 +48,22 @@ My daily routines and activities are:
    check RSS feeds with:
    <ul>
     <li>
-     <a href="https://apps.apple.com/kr/app/reeder-5/id1529448980" target="_blank">Reeder</a>
+     <a href="https://apps.apple.com/kr/app/reeder-5/id1529448980">Reeder</a>
     </li>
     <li>
-     <a href="https://play.google.com/store/apps/details?id=com.devhd.feedly" target="_blank">Feedly</a>
+     <a href="https://play.google.com/store/apps/details?id=com.devhd.feedly">Feedly</a>
     </li>
    </ul>
   </li>
   <li>
    listen to music with:
    <ul>
-    <li><a href="https://apps.apple.com/us/app/evermusic/id1564384601" target="_blank">Evermusic</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.spiralplayerx" target="_blank">Spiral Player</a></li>
+    <li><a href="https://apps.apple.com/us/app/evermusic/id1564384601">Evermusic</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.spiralplayerx">Spiral Player</a></li>
    </ul>
   </li>
   <li>
-   read books with <a href="https://onyxboox.com/boox_page" target="_blank">ONYX BOOX Page</a>
+   read books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>
   </li>
  </ul>
 </details>
@@ -72,10 +72,10 @@ My daily routines and activities are:
  <summary>and entertain myself.</summary>
  <ul>
   <li>
-   play games on my <a href="https://store.steampowered.com/steamdeck" target="_blank">steam deck</a>,
+   play games on my <a href="https://store.steampowered.com/steamdeck">steam deck</a>,
   </li>
   <li>
-   do the daily quests in <a href="https://magic.wizards.com/en/mtgarena target="_blank">MTG Arena</a>,
+   do the daily quests in <a href="https://magic.wizards.com/en/mtgarena">MTG Arena</a>,
   </li>
   <li>
    and etc.
