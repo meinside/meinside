@@ -4,26 +4,89 @@
 
 My daily routines and activities are:
 
-* do morning exercises,
-  * 20 * 10 `push-ups`
-  * 20 * 3 `lunges` on each side
-  * 8 * 5 `pull-ups` with [this one](https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg)
-  * 20 * 5 `slow burpees`
-  * 30 * 3 `kettlebell swing` with [this one](https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg)
-* update things in my linux machines (Raspberry Pi 4B + oracle cloud instances),
-* maintain my [dotfiles](https://github.com/meinside/dotfiles),
-* [check RSS feeds](https://apps.apple.com/kr/app/reeder-5/id1529448980),
-* write docs and notes with [obsidian](https://obsidian.md/),
-* (work for a living :godmode:)
-* [listen to music](https://play.google.com/store/apps/details?id=com.spiralplayerx) while washing dishes,
-* update and configure things on my [steam deck](https://store.steampowered.com/steamdeck) ~~(and turn it off without playing :trollface:)~~,
-* do the daily quests in [MTG Arena](https://magic.wizards.com/en/mtgarena),
-* and/or read books with [ONYX BOOX Page](https://onyxboox.com/boox_page).
+<details>
+ <summary>do morning exercises,</summary>
+  <ul>
+   <li>20 * 10 <b>push-ups</b></li>
+   <li>20 * 3 <b>lunges</b> on each side</li>
+   <li>8 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg" target="_blank">this one</a></li>
+   <li>20 * 5 <b>slow burpees</b></li>
+   <li>30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg" target="_blank">this one</a></li>
+  </ul>
+</details>
+
+<details open>
+ <summary>(work for a living :godmode:)</summary>
+</details>
+
+<details>
+ <summary>do productive things,</summary>
+ <ul>
+  <li>
+   update things in my linux machines:
+   <ul>
+    <li>Raspberry Pi 4B</li>
+    <li>Oracle Cloud Instances</li>
+   </ul>
+  </li>
+  <li>
+   maintain my <a href="https://github.com/meinside/dotfiles" target="_blank">dotfiles</a>,
+  </li>
+  <li>
+   write docs and notes with <a href="https://obsidian.md" target="_blank">obsidian</a>,
+  </li>
+  <li>
+   and write codes with (mostly) <a href="https://github.com/neovim/neovim" target="_blank">neovim</a>.
+  </li>
+ </ul>
+</details>
+
+<details>
+ <summary>read and listen to things,</summary>
+ <ul>
+  <li>
+   check RSS feeds with:
+   <ul>
+    <li>
+     <a href="https://apps.apple.com/kr/app/reeder-5/id1529448980" target="_blank">Reeder</a>
+    </li>
+    <li>
+     <a href="https://play.google.com/store/apps/details?id=com.devhd.feedly" target="_blank">Feedly</a>
+    </li>
+   </ul>
+  </li>
+  <li>
+   listen to music with:
+   <ul>
+    <li><a href="https://apps.apple.com/us/app/evermusic/id1564384601" target="_blank">Evermusic</a></li>
+    <li><a href="https://play.google.com/store/apps/details?id=com.spiralplayerx" target="_blank">Spiral Player</a></li>
+   </ul>
+  </li>
+  <li>
+   read books with <a href="https://onyxboox.com/boox_page" target="_blank">ONYX BOOX Page</a>
+  </li>
+ </ul>
+</details>
+
+<details>
+ <summary>and entertain myself.</summary>
+ <ul>
+  <li>
+   play games on my <a href="https://store.steampowered.com/steamdeck" target="_blank">steam deck</a>,
+  </li>
+  <li>
+   do the daily quests in <a href="https://magic.wizards.com/en/mtgarena target="_blank">MTG Arena</a>,
+  </li>
+  <li>
+   and etc.
+  </li>
+ </ul>
+</details>
 
 ----
 
 🏠 [homepage](https://meinside.dev) | 🌐 [blog](https://blog.meinside.dev)
 
-![generated with noiselith](https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg)
+<img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
 
-*last update: 2024.06.11.*
+*last update: 2024.09.05.*
