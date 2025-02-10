@@ -9,7 +9,7 @@ My daily routines and activities are:
   <ul>
    <li>20 * 10 <b>push-ups</b></li>
    <li>20 * 3 <b>lunges</b> on each side</li>
-   <li>8 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a></li>
+   <li>10 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a></li>
    <li>20 * 5 <b>slow burpees</b></li>
    <li>30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a></li>
   </ul>
@@ -89,4 +89,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
 
-*last update: 2024.09.09.*
+*last update: 2025.02.10.*
