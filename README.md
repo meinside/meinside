@@ -51,7 +51,7 @@ My daily routines and activities are:
      <a href="https://reederapp.com/classic/">Reeder Classic</a>
     </li>
     <li>
-     <a href="https://play.google.com/store/apps/details?id=com.devhd.feedly">Feedly</a>
+     <a href="https://play.google.com/store/apps/details?id=com.seazon.feedme">FeedMe</a>
     </li>
    </ul>
   </li>
@@ -89,4 +89,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
 
-*last update: 2025.04.25.*
+*last update: 2025.04.29.*
