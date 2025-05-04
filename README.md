@@ -75,7 +75,7 @@ My daily routines and activities are:
    play games on my <a href="https://store.steampowered.com/steamdeck">steam deck</a>,
   </li>
   <li>
-   do the daily quests in <a href="https://magic.wizards.com/en/mtgarena">MTG Arena</a>,
+   play games on my Galaxy S24+,
   </li>
   <li>
    and etc.
@@ -89,4 +89,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
 
-*last update: 2025.04.29.*
+*last update: 2025.05.04.*
