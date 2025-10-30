@@ -56,6 +56,17 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
+   read messages on IRC with:
+   <ul>
+    <li>
+     <a href="https://halloy.chat/">Halloy</a>
+    </li>
+    <li>
+     <a href="https://f-droid.org/en/packages/io.mrarm.irc/">Revolution IRC</a>
+    </li>
+   </ul>
+  </li>
+  <li>
    listen to music with:
    <ul>
     <li><a href="https://apps.apple.com/us/app/evermusic/id1564384601">Evermusic</a></li>
@@ -72,7 +83,7 @@ My daily routines and activities are:
  <summary>and entertain myself.</summary>
  <ul>
   <li>
-   play games on my <a href="https://store.steampowered.com/steamdeck">steam deck</a> and Galaxy S24+,
+   play games on my <a href="https://steamcommunity.com/id/meinside/">steam</a> <a href="https://store.steampowered.com/steamdeck">deck</a> and Galaxy S24+,
   </li>
   <li>
    and etc.
@@ -86,4 +97,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
 
-*last update: 2025.06.04.*
+*last update: 2025.10.30.*
