@@ -69,8 +69,9 @@ My daily routines and activities are:
   <li>
    listen to music with:
    <ul>
-    <li><a href="https://apps.apple.com/us/app/evermusic/id1564384601">Evermusic</a></li>
-    <li><a href="https://play.google.com/store/apps/details?id=com.spiralplayerx">Spiral Player</a></li>
+    <li>
+     <a href="https://play.google.com/store/apps/details?id=app.symfonik.music.player">Symfonium</a>
+    </li>
    </ul>
   </li>
   <li>
@@ -95,6 +96,6 @@ My daily routines and activities are:
 
 🏠 [homepage](https://meinside.dev) | 🌐 [blog](https://blog.meinside.dev)
 
-<img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width=360 height=360>
+<img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2025.10.30.*
+*last update: 2025.11.07.*
