@@ -70,6 +70,9 @@ My daily routines and activities are:
    listen to music with:
    <ul>
     <li>
+     <a href="https://www.navidrome.org/">Navidrome</a>
+    </li>
+    <li>
      <a href="https://play.google.com/store/apps/details?id=app.symfonik.music.player">Symfonium</a>
     </li>
    </ul>
