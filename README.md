@@ -7,11 +7,11 @@ My daily routines and activities are:
 <details>
  <summary>do morning exercises,</summary>
   <ul>
-   <li>20 * 10 <b>push-ups</b></li>
-   <li>20 * 3 <b>lunges</b> on each side</li>
-   <li>10 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a></li>
-   <li>20 * 5 <b>slow burpees</b></li>
-   <li>30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a></li>
+   <li>20 * 10 <b>push-ups</b>,</li>
+   <li>20 * 3 <b>lunges</b> on each side,</li>
+   <li>10 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a>,</li>
+   <li>20 * 5 <b>slow burpees,</b></li>
+   <li>and 30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a></li>
   </ul>
 </details>
 
@@ -25,8 +25,8 @@ My daily routines and activities are:
   <li>
    update things in my linux machines:
    <ul>
-    <li>Raspberry Pi 4B</li>
-    <li>Oracle Cloud Instances</li>
+    <li>Raspberry Pi 4B,</li>
+    <li>and Oracle Cloud Instances</li>
    </ul>
   </li>
   <li>
@@ -48,10 +48,10 @@ My daily routines and activities are:
    check RSS feeds with:
    <ul>
     <li>
-     <a href="https://reederapp.com/classic/">Reeder Classic</a>
+     <a href="https://reederapp.com/classic/">Reeder Classic</a>,
     </li>
     <li>
-     <a href="https://play.google.com/store/apps/details?id=com.seazon.feedme">FeedMe</a>
+     and <a href="https://play.google.com/store/apps/details?id=com.seazon.feedme">FeedMe</a>
     </li>
    </ul>
   </li>
@@ -59,10 +59,10 @@ My daily routines and activities are:
    read messages on IRC with:
    <ul>
     <li>
-     <a href="https://halloy.chat/">Halloy</a>
+     <a href="https://halloy.chat/">Halloy</a>,
     </li>
     <li>
-     <a href="https://f-droid.org/en/packages/io.mrarm.irc/">Revolution IRC</a>
+     and <a href="https://f-droid.org/en/packages/io.mrarm.irc/">Revolution IRC</a>
     </li>
    </ul>
   </li>
@@ -70,10 +70,13 @@ My daily routines and activities are:
    listen to <a href="https://www.last.fm/user/frageverything">music</a> with:
    <ul>
     <li>
-     <a href="https://www.navidrome.org/">Navidrome</a>
+     <a href="https://www.navidrome.org/">Navidrome</a>,
     </li>
     <li>
-     <a href="https://play.google.com/store/apps/details?id=app.symfonik.music.player">Symfonium</a>
+     <a href="https://github.com/jeffvli/feishin">Feishin</a>,
+    </li>
+    <li>
+     and <a href="https://play.google.com/store/apps/details?id=app.symfonik.music.player">Symfonium</a>
     </li>
    </ul>
   </li>
