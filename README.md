@@ -67,7 +67,7 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   listen to music with:
+   listen to <a href="https://www.last.fm/user/frageverything">music</a> with:
    <ul>
     <li>
      <a href="https://www.navidrome.org/">Navidrome</a>
@@ -101,4 +101,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2025.11.07.*
+*last update: 2025.11.09.*
