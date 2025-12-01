@@ -25,7 +25,16 @@ My daily routines and activities are:
   <li>
    update things in my linux machines:
    <ul>
-    <li>Raspberry Pi 4B,</li>
+    <li>
+     Raspberry Pi 5 16GB,
+     <ul>
+      <li>Case: KKSB</li>
+      <li>Active Cooler: Official one</li>
+      <li>M.2 NVMe SSD Shield: ElectroCookie ECR5 SSDS V1.0</li>
+      <li>M.2 NVMe 2242 SSD: Samsung PM9B1 (512GB)</li>
+      <li>Power: Official one (27W/USB-C)</li>
+     </ul>
+    </li>
     <li>and Oracle Cloud Instances</li>
    </ul>
   </li>
@@ -104,4 +113,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2025.11.09.*
+*last update: 2025.12.01.*
