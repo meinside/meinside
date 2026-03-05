@@ -57,7 +57,7 @@ My daily routines and activities are:
    check RSS feeds with:
    <ul>
     <li>
-     <a href="https://reederapp.com/classic/">Reeder Classic</a>,
+     <a href="https://netnewswire.com/">NetNewsWire</a>,
     </li>
     <li>
      and <a href="https://play.google.com/store/apps/details?id=com.seazon.feedme">FeedMe</a>
@@ -113,4 +113,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2025.12.04.*
+*last update: 2026.03.05.*
