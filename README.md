@@ -42,7 +42,7 @@ My daily routines and activities are:
    maintain my <a href="https://github.com/meinside/dotfiles">dotfiles</a>,
   </li>
   <li>
-   write docs and notes with <a href="https://obsidian.md">obsidian</a>,
+   write docs and notes with <a href="https://obsidian.md">obsidian</a>, sync them with <a href="https://play.google.com/store/apps/details?id=com.viscouspot.gitsync">GitSync</a>,
   </li>
   <li>
    and write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>.
@@ -113,4 +113,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.03.05.*
+*last update: 2026.04.01.*
