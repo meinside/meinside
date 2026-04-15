@@ -23,7 +23,10 @@ My daily routines and activities are:
  <summary>do productive things,</summary>
  <ul>
   <li>
-   update things in my linux machines:
+   print things with <a href="https://bambulab.com/en/p2s">P2S</a>C,
+  </li>
+  <li>
+   manage things in my linux machines:
    <ul>
     <li>
      Raspberry Pi 5 16GB,
@@ -113,4 +116,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.04.01.*
+*last update: 2026.04.15.*
