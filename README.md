@@ -11,7 +11,7 @@ My daily routines and activities are:
    <li>20 * 3 <b>lunges</b> on each side,</li>
    <li>10 * 5 <b>pull-ups</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/pullup_bar.jpg">this one</a>,</li>
    <li>20 * 5 <b>slow burpees,</b></li>
-   <li>and 30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a></li>
+   <li>and 30 * 3 <b>kettlebell swing</b> with <a href="https://raw.githubusercontent.com/meinside/meinside/main/res/things/kettlebell_12kg.jpg">this one</a>.</li>
   </ul>
 </details>
 
@@ -23,32 +23,32 @@ My daily routines and activities are:
  <summary>do productive things,</summary>
  <ul>
   <li>
-   print things with <a href="https://bambulab.com/en/p2s">P2S</a>C,
+   maintain my <a href="https://github.com/meinside/dotfiles">dotfiles</a>,
   </li>
   <li>
-   manage things in my linux machines:
+   build & run things on my linux machines:
    <ul>
     <li>
      Raspberry Pi 5 16GB,
      <ul>
       <li>Case: KKSB</li>
-      <li>Active Cooler: Official one</li>
+      <li>(Official) Active Cooler</li>
       <li>M.2 NVMe SSD Shield: ElectroCookie ECR5 SSDS V1.0</li>
       <li>M.2 NVMe 2242 SSD: Samsung PM9B1 (512GB)</li>
-      <li>Power: Official one (27W/USB-C)</li>
+      <li>(Official) Power: 27W/USB-C</li>
      </ul>
     </li>
     <li>and Oracle Cloud Instances</li>
    </ul>
   </li>
   <li>
-   maintain my <a href="https://github.com/meinside/dotfiles">dotfiles</a>,
-  </li>
-  <li>
    write docs and notes with <a href="https://obsidian.md">obsidian</a>, sync them with <a href="https://play.google.com/store/apps/details?id=com.viscouspot.gitsync">GitSync</a>,
   </li>
   <li>
-   and write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>.
+   write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>,
+  </li>
+  <li>
+   and print things with <a href="https://bambulab.com/en/p2s">P2S</a>C.
   </li>
  </ul>
 </details>
@@ -93,7 +93,7 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   and read (e)books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>
+   and read books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>.
   </li>
  </ul>
 </details>
@@ -116,4 +116,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.04.15.*
+*last update: 2026.05.14.*
