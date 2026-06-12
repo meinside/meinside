@@ -48,7 +48,7 @@ My daily routines and activities are:
    write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>,
   </li>
   <li>
-   and print things with <a href="https://bambulab.com/en/p2s">P2S</a>C.
+   and print things with my <a href="https://bambulab.com/en/p2s">P2S</a><a href="https://wiki.bambulab.com/en/ams-2-pro">C</a>.
   </li>
  </ul>
 </details>
@@ -93,7 +93,7 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   and read books with <a href="https://onyxboox.com/boox_page">ONYX BOOX Page</a>.
+   and read books with my <a href="https://www.xteink.com/products/xteink-x4">XTEINK X4 (unlocked, CrossPoint)</a>.
   </li>
  </ul>
 </details>
@@ -116,4 +116,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.05.14.*
+*last update: 2026.06.12.*
