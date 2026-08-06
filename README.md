@@ -5,7 +5,7 @@
 My daily routines and activities are:
 
 <details>
- <summary>do morning exercises,</summary>
+ <summary>doing morning exercises,</summary>
   <ul>
    <li>20 * 10 <b>push-ups</b>,</li>
    <li>20 * 3 <b>lunges</b> on each side,</li>
@@ -16,11 +16,11 @@ My daily routines and activities are:
 </details>
 
 <details open>
- <summary>(work for a living :godmode:)</summary>
+ <summary>(working for a living :godmode:)</summary>
 </details>
 
 <details>
- <summary>do productive things,</summary>
+ <summary>doing productive things,</summary>
  <ul>
   <li>
    maintain my <a href="https://github.com/meinside/dotfiles">dotfiles</a>,
@@ -42,7 +42,7 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
-   write docs and notes with <a href="https://obsidian.md">obsidian</a>, sync them with <a href="https://play.google.com/store/apps/details?id=com.viscouspot.gitsync">GitSync</a>,
+   keep docs & notes with <a href="https://obsidian.md">obsidian</a>, synchronizing them with <a href="https://play.google.com/store/apps/details?id=com.viscouspot.gitsync">GitSync</a>,
   </li>
   <li>
    write codes with (mostly) <a href="https://github.com/neovim/neovim">neovim</a>,
@@ -54,7 +54,7 @@ My daily routines and activities are:
 </details>
 
 <details>
- <summary>read and listen to things,</summary>
+ <summary>reading and listening to things,</summary>
  <ul>
   <li>
    check RSS feeds with:
@@ -93,13 +93,20 @@ My daily routines and activities are:
    </ul>
   </li>
   <li>
+   send/recv messages through <a href="https://meshtastic.org/">meshtastic</a> with:
+   <ul>
+    <li>Seeed <a href="https://meshtastic.org/docs/hardware/devices/seeed-studio/wio-series/tracker-l1/">Wio Tracker L1 Pro</a>,</li>
+    <li>and Heltec <a href="https://meshtastic.org/docs/hardware/devices/heltec-automation/lora32/?heltec=v4">LoRa 32 V4</a>.</li>
+   </ul>
+  </li>
+  <li>
    and read books with my <a href="https://www.xteink.com/products/xteink-x4">XTEINK X4 (unlocked, CrossPoint)</a>.
   </li>
  </ul>
 </details>
 
 <details>
- <summary>and entertain myself.</summary>
+ <summary>and entertaining myself.</summary>
  <ul>
   <li>
    play games on my <a href="https://steamcommunity.com/id/meinside/">steam</a> <a href="https://store.steampowered.com/steamdeck">deck</a> and Galaxy S24+,
@@ -116,4 +123,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.06.12.*
+*last update: 2026.08.06.*
