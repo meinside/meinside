@@ -96,7 +96,8 @@ My daily routines and activities are:
    send/recv messages through <a href="https://meshtastic.org/">meshtastic</a> with:
    <ul>
     <li>Seeed <a href="https://meshtastic.org/docs/hardware/devices/seeed-studio/wio-series/tracker-l1/">Wio Tracker L1 Pro</a>,</li>
-    <li>and Heltec <a href="https://meshtastic.org/docs/hardware/devices/heltec-automation/lora32/?heltec=v4">LoRa 32 V4</a>.</li>
+    <li><a href="https://meshtastic.org/docs/hardware/devices/heltec-automation/lora32/?heltec=v4">Heltec V4</a> + L76K GPS module,</li>
+    <li>and still waiting for: Heltec V4 without GPS module, SenseCAP MeshTracker X1.</li>
    </ul>
   </li>
   <li>
@@ -123,4 +124,4 @@ My daily routines and activities are:
 
 <img src="https://raw.githubusercontent.com/meinside/meinside/main/res/profile/sloth.jpg" width="360" height="360">
 
-*last update: 2026.08.06.*
+*last update: 2026.08.13.*
